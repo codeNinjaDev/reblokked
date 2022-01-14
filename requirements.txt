@@ -1,0 +1,8 @@
+cryptography
+python-dotenv
+django
+djangorestframework
+django-cors-headers
+drf-jwt
+pyjwt
+requests
